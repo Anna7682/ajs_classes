@@ -1,6 +1,6 @@
 import Character from './js/character';
 
-export default class Daemon extends Character {
+export default class Magician extends Character {
 	constructor(level, health) {
 		super(level, health);
 
